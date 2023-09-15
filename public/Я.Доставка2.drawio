@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T17:40:11.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GljskJR0dMngSRdChx55" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T17:41:36.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Kjt8zP9F8G8hTjSnufs1" version="21.7.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="897" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -60,10 +60,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XswiuY4ydzR14CQenFJ5-17" value="1.Создание заявки на доставку" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="120" width="290" height="20" as="geometry" />
+          <mxGeometry x="140" y="120" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XswiuY4ydzR14CQenFJ5-19" value="2.Потверждение доставки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="200" width="290" height="20" as="geometry" />
+        <mxCell id="XswiuY4ydzR14CQenFJ5-19" value="2.Потверждение заявки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="200" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XswiuY4ydzR14CQenFJ5-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="200" width="10" height="120" as="geometry" />
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XswiuY4ydzR14CQenFJ5-38" value="5.Подтверждение доставки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="155" y="580" width="290" height="20" as="geometry" />
+          <mxGeometry x="150" y="580" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OehrpUpaWj5BFEgIrm4z-1" value="https://yandex.ru/dev/logistics/api/ref/basic/IntegrationV2ClaimsCreate.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="115" width="410" height="30" as="geometry" />
