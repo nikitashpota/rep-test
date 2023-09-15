@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T17:34:50.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="F-Vp94PEieJAyRmtyHg7" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T17:36:24.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XcguNq_MPHUoU8kAS6aj" version="21.7.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="897" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,19 +134,19 @@
         <mxCell id="XswiuY4ydzR14CQenFJ5-38" value="5.Коды подтверждения и акты приёма-передачи" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="155" y="580" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OehrpUpaWj5BFEgIrm4z-1" value="https://yandex.ru/dev/logistics/api/ref/basic/IntegrationV2ClaimsCreate.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OehrpUpaWj5BFEgIrm4z-1" value="https://yandex.ru/dev/logistics/api/ref/basic/IntegrationV2ClaimsCreate.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="115" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OehrpUpaWj5BFEgIrm4z-2" value="https://yandex.ru/dev/logistics/api/ref/basic/IntegrationV2ClaimsCreate.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OehrpUpaWj5BFEgIrm4z-2" value="https://yandex.ru/dev/logistics/api/ref/basic/IntegrationV2ClaimsAccept.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="190" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OehrpUpaWj5BFEgIrm4z-3" value="https://yandex.ru/dev/logistics/api/ref/basic/IntegrationV2ClaimsCreate.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OehrpUpaWj5BFEgIrm4z-3" value="https://yandex.ru/dev/logistics/api/ref/performer-info/IntegrationV2ClaimsPerformerPosition.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="305" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OehrpUpaWj5BFEgIrm4z-4" value="https://yandex.ru/dev/logistics/api/ref/basic/IntegrationV2ClaimsCreate.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OehrpUpaWj5BFEgIrm4z-4" value="https://yandex.ru/dev/logistics/api/ref/confirmation-code-and-acts.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="410" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OehrpUpaWj5BFEgIrm4z-5" value="https://yandex.ru/dev/logistics/api/ref/basic/IntegrationV2ClaimsCreate.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OehrpUpaWj5BFEgIrm4z-5" value="https://yandex.ru/dev/logistics/api/ref/proof-of-delivery/IntegrationV2ClaimsProofOfDeliveryInfo.html" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="580" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
